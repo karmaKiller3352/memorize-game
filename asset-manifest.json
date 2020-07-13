@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memorize-game/static/css/main.b6d45c51.chunk.css",
+    "main.js": "/memorize-game/static/js/main.64cead04.chunk.js",
+    "main.js.map": "/memorize-game/static/js/main.64cead04.chunk.js.map",
+    "runtime-main.js": "/memorize-game/static/js/runtime-main.d9b31247.js",
+    "runtime-main.js.map": "/memorize-game/static/js/runtime-main.d9b31247.js.map",
+    "static/js/2.717e5194.chunk.js": "/memorize-game/static/js/2.717e5194.chunk.js",
+    "static/js/2.717e5194.chunk.js.map": "/memorize-game/static/js/2.717e5194.chunk.js.map",
+    "index.html": "/memorize-game/index.html",
+    "precache-manifest.71ce3e9508fa827869e34e111dc012ad.js": "/memorize-game/precache-manifest.71ce3e9508fa827869e34e111dc012ad.js",
+    "service-worker.js": "/memorize-game/service-worker.js",
+    "static/css/main.b6d45c51.chunk.css.map": "/memorize-game/static/css/main.b6d45c51.chunk.css.map",
+    "static/js/2.717e5194.chunk.js.LICENSE.txt": "/memorize-game/static/js/2.717e5194.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9b31247.js",
+    "static/js/2.717e5194.chunk.js",
+    "static/css/main.b6d45c51.chunk.css",
+    "static/js/main.64cead04.chunk.js"
+  ]
+}
